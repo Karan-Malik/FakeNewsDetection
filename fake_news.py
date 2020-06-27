@@ -1,13 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jun 24 16:56:07 2020
-
 @author: Karan
 """
-
-
-
-
 
 import numpy as np
 import pandas as pd
